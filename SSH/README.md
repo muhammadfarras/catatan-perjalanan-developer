@@ -14,9 +14,8 @@ Langkah
 Ketik kode berikut di Gitbash command ```$ ssh-keygen -t ed25519 -c "email@gmail.com"```
 Tekan enter sampai muncul sha 256
 
-|-----------|
 | ed25519 adalah algoritma baru yang barusaja ditambahkan di OpenSSH. Dukungan algoritma ini belum dipakai secara umum. Maka dari itu penggunaan untuk tujuan umum dari aplikasi tidak disarankan.
-
+|-----------|
 
 2. Pastikan ssh-agent berjalan dikomputer kita.
 Untuk mengecheck secara manual ketik ```$ eval "$(ssh-agent -s)"```
