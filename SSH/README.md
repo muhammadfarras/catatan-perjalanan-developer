@@ -28,6 +28,7 @@ Ganti `idKita`dengan nama file dari private key kita
 # Menambahkan SSH Key baru kedalam Akun Github
 1. *Copy* SSH public key ke clipboard
 Ganti idKita dengan nama yang sesuai dengan nama file kita yang berada di folder `~/.ssh`.
+
 ```$ clip < ~/.ssh/id_idKita.pub
 # Copies the contents of the id_idKita.pub file to your clipboard```
 
