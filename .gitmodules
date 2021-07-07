@@ -1,6 +1,6 @@
 [submodule "catatan-practice-github"]
 	path = catatan-practice-github
 	url = https://github.com/muhammadfarras/catatan-practice-github
-	branch = catatan_stabel
+	branch = master
 [submodule]
 	catatan-practice-github = master
