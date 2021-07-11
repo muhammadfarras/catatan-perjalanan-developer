@@ -2,5 +2,4 @@
 	path = catatan-practice-github
 	url = https://github.com/muhammadfarras/catatan-practice-github
 	branch = master
-[submodule]
-	catatan-practice-github = master
+
