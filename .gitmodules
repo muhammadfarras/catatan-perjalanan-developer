@@ -3,3 +3,6 @@
 	url = https://github.com/muhammadfarras/catatan-practice-github
 	branch = master
 
+[submodule "Learn-R-Programming"]
+	path = Learn-R-Programming
+	url = git@github.com:muhammadfarras/Learn-R-Programming.git
