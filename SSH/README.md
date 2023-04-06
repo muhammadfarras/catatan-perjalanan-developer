@@ -11,7 +11,7 @@ Penjelasan lebih lengkat tentang apa itu SSH dapat dilihat [disini](https://www.
 
 Langkah 
 1. `Open Git Bash`
-Ketik kode berikut di Gitbash command ```$ ssh-keygen -t ed25519 -c "email@gmail.com"```
+Ketik kode berikut di Gitbash command ```$ ssh-keygen -t ed25519 -C "email@gmail.com"```
 Tekan enter sampai muncul sha 256
 
 | ed25519 adalah algoritma baru yang barusaja ditambahkan di OpenSSH. Dukungan algoritma ini belum dipakai secara umum. Maka dari itu penggunaan untuk tujuan umum dari aplikasi tidak disarankan.
